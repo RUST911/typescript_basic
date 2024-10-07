@@ -7,3 +7,5 @@ function test() {
 }
 //元组类型
 let user: [string, number] = ['viking', 20]
+user.push('vk')
+user.push(12)

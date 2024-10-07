@@ -13,6 +13,3 @@ let num: number = undefined
 let notSure: any = 4
 notSure = 'maybe a string'
 notSure = true
-
-notSure.myName
-notSure.getName()
