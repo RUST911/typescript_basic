@@ -1,0 +1,1 @@
+typescript语法练习
